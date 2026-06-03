@@ -77,13 +77,13 @@
 <div align="center">
 
 ![Energy Storage](https://img.shields.io/badge/Energy_Storage-F57F17?style=for-the-badge)
-![Lithium Metal/Ion Batteries](https://img.shields.io/badge/Lithium_Metal_Batteries-1565C0?style=for-the-badge)
+![Lithium Metal/Ion Batteries](https://img.shields.io/badge/Lithium_Metal%2FIon_Batteries-1565C0?style=for-the-badge)
 ![Solid-State Batteries](https://img.shields.io/badge/Solid--State_Batteries-2E7D32?style=for-the-badge)
-![Battery Electrolyte](https://img.shields.io/badge/Electrolyte_Science-0288D1?style=for-the-badge)
+![Battery Electrolyte](https://img.shields.io/badge/Battery_Electrolyte-0288D1?style=for-the-badge)
 <br>
-![Data-Driven Research](https://img.shields.io/badge/Data--Driven_Materials-7B1FA2?style=for-the-badge)
+![Data-Driven Research](https://img.shields.io/badge/Data--Driven_Research-7B1FA2?style=for-the-badge)
 ![Electrochemistry](https://img.shields.io/badge/Electrochemistry-C62828?style=for-the-badge)
-![Organic Chemistry](https://img.shields.io/badge/Lithium--Ion_Batteries-0277BD?style=for-the-badge)
+![Organic Chemistry](https://img.shields.io/badge/Organic_Chemistry-0277BD?style=for-the-badge)
 
 </div>
 
