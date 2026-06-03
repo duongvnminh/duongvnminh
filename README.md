@@ -67,7 +67,7 @@
 | [**battery-electrolyte-ml**](https://github.com/duongvnminh) | Data-driven models for electrolyte design in lithium metal batteries |
 | [**lhce-solvation-shell**](https://github.com/duongvnminh) | Understanding solvation structure of localized high-concentration electrolytes |
 | [**nmc-slurry-optimization**](https://github.com/duongvnminh) | Slurry preparation optimization for NMC cathodes |
-| [**Bayesian-optimization(BO)**](https://github.com/duongvnminh) | use BO to optimize cathode density for all-solid-state batteries |
+| [**Bayesian-optimization(BO)**](https://github.com/duongvnminh) | use BO to optimize cathode density in all-solid-state batteries |
 | [**electrolyte-additive-predictor**](https://github.com/duongvnminh) | Predicting electrolyte additive effects on cell cycling performance |
 
 ---
@@ -76,10 +76,10 @@
 
 <div align="center">
 
-![Lithium Batteries](https://img.shields.io/badge/Lithium_Metal_Batteries-1565C0?style=for-the-badge)
+![Energy Storage](https://img.shields.io/badge/Energy_Storage-F57F17?style=for-the-badge)
+![Lithium Metal/Ion Batteries](https://img.shields.io/badge/Lithium_Metal_Batteries-1565C0?style=for-the-badge)
 ![Solid-State Batteries](https://img.shields.io/badge/Solid--State_Batteries-2E7D32?style=for-the-badge)
 ![Battery Electrolyte](https://img.shields.io/badge/Electrolyte_Science-0288D1?style=for-the-badge)
-![Energy Storage](https://img.shields.io/badge/Energy_Storage-F57F17?style=for-the-badge)
 <br>
 ![Data-Driven Research](https://img.shields.io/badge/Data--Driven_Materials-7B1FA2?style=for-the-badge)
 ![Electrochemistry](https://img.shields.io/badge/Electrochemistry-C62828?style=for-the-badge)
