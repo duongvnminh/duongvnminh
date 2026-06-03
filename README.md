@@ -97,22 +97,6 @@
 
 ---
 
-## 🚀 Recent Activity
-
-<div align="center">
-<p>
-
-⚡ <b>Battery 500 Project (UW + PNNL)</b>: Data-driven electrolyte development for 500 Wh/kg lithium metal batteries<br>
-🧪 <b>PNNL Internship</b>: Fundamental & ML approaches to advanced electrolyte design for rechargeable Li metal batteries<br>
-🏆 <b>UW Clean Energy Institute</b>: 2024 Graduate Fellowship recipient<br>
-📄 <b>Advanced Materials 2026</b>: "Leveraging Fundamental and Data-Driven Insights for Electrolyte Innovation" (under review)<br>
-🌍 <b>Open Science</b>: Building data-driven tools for electrochemistry and battery materials discovery
-
-</p>
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
