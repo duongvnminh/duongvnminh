@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Minh Duong</h1>
-<h3 align="center">Ph.D. Candidate in Materials Science & Engineering | Electrolyte & Data Science Researcher</h3>
+<h3 align="center">Ph.D. Candidate in Materials Science & Engineering | Material & Data Science Researcher</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Electrolyte+Scientist;Battery+500+Project+Researcher;ML+%2F+AI+for+Molecules;Lithium+Metal+Battery+Developer;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Material+Scientist;Battery+500+Project+Researcher;ML+%2F+AI+for+Molecules;Data+Scientist;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## About Me
 
-**Material Scientist**, **Chemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable lithium metal batteries.
+**Materials Scientist**, **Chemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable lithium metal batteries.
 
 ---
 
@@ -119,7 +119,7 @@
 
 | Degree | Institution | Focus |
 |:------:|:-----------:|:-----:|
-| ③ **Ph.D.** Materials Science & Engineering | 🏛️ University of Washington, Seattle | Electrolyte science · Data science |
+| ③ **Ph.D.** Materials Science & Engineering | 🏛️ University of Washington, Seattle | Materials science · Data science |
 | ② **M.Sc.** Chemistry — [Erasmus Mundus (i-MESC)](https://i-mesc.eu/fileadmin/user_upload/i-MESC_leaflet_2025.pdf) | 🌍 WUT · UPS · UPJV (Poland & France) | Energy storage & conversion |
 | ① **B.Sc.** Chemistry — Honor Program | 🏫 Ho Chi Minh University of Science | Physical/Organic chemistry |
 
