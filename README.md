@@ -15,7 +15,7 @@
 
 ## About Me
 
-**Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable lithium metal batteries.
+**Material Scientist**, **Chemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable lithium metal batteries.
 
 ---
 
@@ -36,7 +36,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Electrochemistry & Battery Science
 ![Battery Assembly](https://img.shields.io/badge/Battery_Assembly_%26_Testing-1565C0?style=for-the-badge)
@@ -66,8 +65,9 @@
 | Repository | Description |
 |:-----------|:------------|
 | [**battery-electrolyte-ml**](https://github.com/duongvnminh) | Data-driven models for electrolyte design in lithium metal batteries |
-| [**lhce-solvation-shell**](https://github.com/duongvnminh) | Solvation shell analysis for localized high-concentration electrolytes |
-| [**nmc-slurry-optimization**](https://github.com/duongvnminh) | ML-assisted slurry preparation optimization for NMC cathodes |
+| [**lhce-solvation-shell**](https://github.com/duongvnminh) | Understanding solvation structure of localized high-concentration electrolytes |
+| [**nmc-slurry-optimization**](https://github.com/duongvnminh) | Slurry preparation optimization for NMC cathodes |
+| [**Bayesian-optimization(BO)**](https://github.com/duongvnminh) | use BO to optimize cathode density for all-solid-state batteries |
 | [**electrolyte-additive-predictor**](https://github.com/duongvnminh) | Predicting electrolyte additive effects on cell cycling performance |
 
 ---
@@ -106,7 +106,6 @@
 
 ⚡ <b>Battery 500 Project (UW + PNNL)</b>: Data-driven electrolyte development for 500 Wh/kg lithium metal batteries<br>
 🧪 <b>PNNL Internship</b>: Fundamental & ML approaches to advanced electrolyte design for rechargeable Li metal batteries<br>
-🏆 <b>UW Clean Energy Institute</b>: 2024 Graduate Fellowship recipient<br>
 📄 <b>Advanced Materials 2026</b>: "Leveraging Fundamental and Data-Driven Insights for Electrolyte Innovation" (under review)
 
 </p>
@@ -122,7 +121,7 @@
 |:------:|:-----------:|:-----:|
 | ③ **Ph.D.** Materials Science & Engineering | 🏛️ University of Washington, Seattle | Electrolyte science · Data science |
 | ② **M.Sc.** Chemistry — [Erasmus Mundus (i-MESC)](https://i-mesc.eu/fileadmin/user_upload/i-MESC_leaflet_2025.pdf) | 🌍 WUT · UPS · UPJV (Poland & France) | Energy storage & conversion |
-| ① **B.Sc.** Chemistry — Honor Program | 🏫 Ho Chi Minh University of Science | Physical chemistry |
+| ① **B.Sc.** Chemistry — Honor Program | 🏫 Ho Chi Minh University of Science | Physical/Organic chemistry |
 
 </div>
 
