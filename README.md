@@ -51,7 +51,6 @@
 ![GCPL](https://img.shields.io/badge/GCPL-6A1B9A?style=for-the-badge)
 ![LSV](https://img.shields.io/badge/LSV-2E7D32?style=for-the-badge)
 ![CA](https://img.shields.io/badge/CA-E65100?style=for-the-badge)
-![CP](https://img.shields.io/badge/Chronopotentiometry-0277BD?style=for-the-badge)
 
 ### Material Characterization
 ![XRD](https://img.shields.io/badge/XRD-7B1FA2?style=for-the-badge)
@@ -77,15 +76,15 @@
 
 <div align="center">
 
-![Electrolyte Science](https://img.shields.io/badge/Electrolyte_Science-0288D1?style=for-the-badge)
-![Lithium Metal Batteries](https://img.shields.io/badge/Lithium_Metal_Batteries-1565C0?style=for-the-badge)
-![Lithium-Ion Batteries](https://img.shields.io/badge/Lithium--Ion_Batteries-0277BD?style=for-the-badge)
-![Machine Learning / AI](https://img.shields.io/badge/Machine_Learning_/_AI-FF6F00?style=for-the-badge)
-![Electrochemistry](https://img.shields.io/badge/Electrochemistry-C62828?style=for-the-badge)
-<br>
-![Data-Driven Materials](https://img.shields.io/badge/Data--Driven_Materials-7B1FA2?style=for-the-badge)
 ![Solid-State Batteries](https://img.shields.io/badge/Solid--State_Batteries-2E7D32?style=for-the-badge)
+![Lithium Batteries](https://img.shields.io/badge/Lithium_Metal_Batteries-1565C0?style=for-the-badge)
+![Electrolyte Science](https://img.shields.io/badge/Electrolyte_Science-0288D1?style=for-the-badge)
+![Machine Learning / AI](https://img.shields.io/badge/Machine_Learning_/_AI-FF6F00?style=for-the-badge)
+![Data-Driven Materials](https://img.shields.io/badge/Data--Driven_Materials-7B1FA2?style=for-the-badge)
+<br>
+![Electrochemistry](https://img.shields.io/badge/Electrochemistry-C62828?style=for-the-badge)
 ![Energy Storage](https://img.shields.io/badge/Energy_Storage-F57F17?style=for-the-badge)
+![Organic Chemistry](https://img.shields.io/badge/Lithium--Ion_Batteries-0277BD?style=for-the-badge)
 
 </div>
 
