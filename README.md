@@ -89,16 +89,6 @@
 
 ---
 
-## 📈 Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Publications-8-blue?style=for-the-badge" alt="Publications"/>
-  <img src="https://img.shields.io/badge/Under_Review-1-orange?style=for-the-badge" alt="Under Review"/>
-  <img src="https://img.shields.io/badge/In_Preparation-2-a855f7?style=for-the-badge" alt="In Preparation"/>
-</p>
-
----
-
 ## 🚀 Recent Activity
 
 <div align="center">
