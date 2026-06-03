@@ -15,7 +15,7 @@
 
 ## About Me
 
-**Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable lithium metal batteries.
+**Material Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable lithium metal batteries.
 
 ---
 
@@ -47,7 +47,6 @@
 ![GCPL](https://img.shields.io/badge/GCPL-6A1B9A?style=for-the-badge)
 ![LSV](https://img.shields.io/badge/LSV-2E7D32?style=for-the-badge)
 ![CA](https://img.shields.io/badge/Chronoamperometry-E65100?style=for-the-badge)
-![CP](https://img.shields.io/badge/Chronopotentiometry-0277BD?style=for-the-badge)
 
 ### Material Characterization
 ![XRD](https://img.shields.io/badge/XRD-7B1FA2?style=for-the-badge)
@@ -64,7 +63,8 @@
 |:-----------|:------------|
 | [**battery-electrolyte-ml**](https://github.com/duongvnminh) | Data-driven models for electrolyte design in lithium metal batteries |
 | [**lhce-solvation-shell**](https://github.com/duongvnminh) | Solvation shell analysis for localized high-concentration electrolytes |
-| [**nmc-slurry-optimization**](https://github.com/duongvnminh) | ML-assisted slurry preparation optimization for NMC cathodes |
+| [**nmc-slurry-optimization**](https://github.com/duongvnminh) | Slurry preparation optimization for NMC111 cathodes |
+| [**Bayesian-optimization-(BO)**](https://github.com/duongvnminh) | BO for all-solid-state batteries |
 | [**electrolyte-additive-predictor**](https://github.com/duongvnminh) | Predicting electrolyte additive effects on cell cycling performance |
 
 ---
