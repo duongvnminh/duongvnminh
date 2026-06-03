@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Minh Duong</h1>
-<h3 align="center">Ph.D. Candidate in Materials Science & Engineering | Materials & Data Science Researcher</h3>
+<h3 align="center">Ph.D. Candidate in Materials Science & Engineering | Electrolyte & Data Science Researcher</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Materials+Scientist;ML+%2F+AI+for+Battery;Lithium+Battery+Researcher;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Electrolyte+Scientist;Battery+500+Project+Researcher;ML+%2F+AI+for+Electrochemistry;Lithium+Metal+Battery+Developer;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## About Me
 
-**Material Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable lithium metal batteries.
+**Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable lithium metal batteries.
 
 ---
 
@@ -32,7 +32,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Electrochemistry & Battery Science
 ![Battery Assembly](https://img.shields.io/badge/Battery_Assembly_%26_Testing-1565C0?style=for-the-badge)
@@ -41,12 +45,13 @@
 ![Materials Synthesis](https://img.shields.io/badge/Materials_Synthesis-6A1B9A?style=for-the-badge)
 
 ### Electrochemical Characterization
-![CV](https://img.shields.io/badge/Cyclic_Voltammetry-C62828?style=for-the-badge)
+![CV](https://img.shields.io/badge/CV-C62828?style=for-the-badge)
 ![EIS](https://img.shields.io/badge/EIS-1565C0?style=for-the-badge)
 ![GITT](https://img.shields.io/badge/GITT-00838F?style=for-the-badge)
 ![GCPL](https://img.shields.io/badge/GCPL-6A1B9A?style=for-the-badge)
 ![LSV](https://img.shields.io/badge/LSV-2E7D32?style=for-the-badge)
-![CA](https://img.shields.io/badge/Chronoamperometry-E65100?style=for-the-badge)
+![CA](https://img.shields.io/badge/CA-E65100?style=for-the-badge)
+![CP](https://img.shields.io/badge/Chronopotentiometry-0277BD?style=for-the-badge)
 
 ### Material Characterization
 ![XRD](https://img.shields.io/badge/XRD-7B1FA2?style=for-the-badge)
@@ -63,8 +68,7 @@
 |:-----------|:------------|
 | [**battery-electrolyte-ml**](https://github.com/duongvnminh) | Data-driven models for electrolyte design in lithium metal batteries |
 | [**lhce-solvation-shell**](https://github.com/duongvnminh) | Solvation shell analysis for localized high-concentration electrolytes |
-| [**nmc-slurry-optimization**](https://github.com/duongvnminh) | Slurry preparation optimization for NMC111 cathodes |
-| [**Bayesian-optimization-(BO)**](https://github.com/duongvnminh) | BO for all-solid-state batteries |
+| [**nmc-slurry-optimization**](https://github.com/duongvnminh) | ML-assisted slurry preparation optimization for NMC cathodes |
 | [**electrolyte-additive-predictor**](https://github.com/duongvnminh) | Predicting electrolyte additive effects on cell cycling performance |
 
 ---
@@ -87,13 +91,38 @@
 
 ---
 
+## 📈 Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Publications-8-blue?style=for-the-badge" alt="Publications"/>
+  <img src="https://img.shields.io/badge/Under_Review-1-orange?style=for-the-badge" alt="Under Review"/>
+  <img src="https://img.shields.io/badge/In_Preparation-2-a855f7?style=for-the-badge" alt="In Preparation"/>
+</p>
+
+---
+
+## 🚀 Recent Activity
+
+<div align="center">
+<p>
+
+⚡ <b>Battery 500 Project (UW + PNNL)</b>: Data-driven electrolyte development for 500 Wh/kg lithium metal batteries<br>
+🧪 <b>PNNL Internship</b>: Fundamental & ML approaches to advanced electrolyte design for rechargeable Li metal batteries<br>
+🏆 <b>UW Clean Energy Institute</b>: 2024 Graduate Fellowship recipient<br>
+📄 <b>Advanced Materials 2026</b>: "Leveraging Fundamental and Data-Driven Insights for Electrolyte Innovation" (under review)
+
+</p>
+</div>
+
+---
+
 ## 🎓 Education
 
 <div align="center">
 
 | Degree | Institution | Focus |
 |:------:|:-----------:|:-----:|
-| ③ **Ph.D.** Materials Science & Engineering | 🏛️ University of Washington, Seattle | Materials science · Data science |
+| ③ **Ph.D.** Materials Science & Engineering | 🏛️ University of Washington, Seattle | Electrolyte science · Data science |
 | ② **M.Sc.** Chemistry — [Erasmus Mundus (i-MESC)](https://i-mesc.eu/fileadmin/user_upload/i-MESC_leaflet_2025.pdf) | 🌍 WUT · UPS · UPJV (Poland & France) | Energy storage & conversion |
 | ① **B.Sc.** Chemistry — Honor Program | 🏫 Ho Chi Minh University of Science | Physical chemistry |
 
