@@ -15,7 +15,7 @@
 
 ## About Me
 
-**Materials Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable lithium metal batteries.
+**Materials Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project** — a DOE initiative targeting 500 Wh/kg energy density for rechargeable batteries.
 
 ---
 
