@@ -30,7 +30,7 @@
 
 ### Machine Learning & AI
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -48,7 +48,6 @@
 ![EIS](https://img.shields.io/badge/EIS-1565C0?style=for-the-badge)
 ![GITT](https://img.shields.io/badge/GITT-00838F?style=for-the-badge)
 ![GCPL](https://img.shields.io/badge/GCPL-6A1B9A?style=for-the-badge)
-![LSV](https://img.shields.io/badge/LSV-2E7D32?style=for-the-badge)
 ![CA](https://img.shields.io/badge/CA-E65100?style=for-the-badge)
 
 ### Material Characterization
@@ -57,6 +56,10 @@
 ![NMR](https://img.shields.io/badge/NMR-0277BD?style=for-the-badge)
 ![Raman](https://img.shields.io/badge/Raman_Spectroscopy-E65100?style=for-the-badge)
 ![XPS](https://img.shields.io/badge/XPS-558B2F?style=for-the-badge)
+
+### Chemical & Solution Analysis
+![Titration](https://img.shields.io/badge/Titration-00838F?style=for-the-badge)
+![GC](https://img.shields.io/badge/GC-6A1B9A?style=for-the-badge)
 
 ---
 
@@ -77,13 +80,13 @@
 <div align="center">
 
 ![Energy Storage](https://img.shields.io/badge/Energy_Storage-F57F17?style=for-the-badge)
-![Lithium Metal/Ion Batteries](https://img.shields.io/badge/Lithium_Metal%2FIon_Batteries-1565C0?style=for-the-badge)
+![Rechargeable Batteries](https://img.shields.io/badge/Rechargeable_Batteries-1565C0?style=for-the-badge)
 ![Solid-State Batteries](https://img.shields.io/badge/Solid--State_Batteries-2E7D32?style=for-the-badge)
 ![Battery Electrolyte](https://img.shields.io/badge/Battery_Electrolyte-0288D1?style=for-the-badge)
 <br>
 ![Data-Driven Research](https://img.shields.io/badge/Data--Driven_Research-7B1FA2?style=for-the-badge)
 ![Electrochemistry](https://img.shields.io/badge/Electrochemistry-C62828?style=for-the-badge)
-![Organic Chemistry](https://img.shields.io/badge/Organic_Chemistry-0277BD?style=for-the-badge)
+![Organic Molecules](https://img.shields.io/badge/Organic_Molecules-0277BD?style=for-the-badge)
 
 </div>
 
@@ -96,7 +99,8 @@
 
 ⚡ <b>Battery 500 Project (UW + PNNL)</b>: Data-driven electrolyte development for 500 Wh/kg lithium metal batteries<br>
 🧪 <b>PNNL Internship</b>: Fundamental & ML approaches to advanced electrolyte design for rechargeable Li metal batteries<br>
-📄 <b>Advanced Materials 2026</b>: "Leveraging Fundamental and Data-Driven Insights for Electrolyte Innovation" (under review)
+📄 <b>Advanced Materials 2026</b>: "Leveraging Fundamental and Data-Driven Insights for Electrolyte Innovation" (accepted)<br>
+🏆 <b><a href="https://www.electrochem.org/ecsnews/spring-2026-award-winners">ECS Pacific Northwest Section Electrochemistry Student Award</a></b>: Spring 2026 award recipient
 
 </p>
 </div>
@@ -112,18 +116,6 @@
 | ③ **Ph.D.** Materials Science & Engineering | 🏛️ University of Washington, Seattle | Materials science · Data science |
 | ② **M.Sc.** Chemistry — [Erasmus Mundus (i-MESC)](https://i-mesc.eu/fileadmin/user_upload/i-MESC_leaflet_2025.pdf) | 🌍 WUT · UPS · UPJV (Poland & France) | Energy storage & conversion |
 | ① **B.Sc.** Chemistry — Honor Program | 🏫 Ho Chi Minh University of Science | Physical/Organic chemistry |
-
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Google Scholar](https://img.shields.io/badge/📚_Scholar-Publications-4285F4?style=for-the-badge&labelColor=2b2b2b)](https://scholar.google.com/citations?user=A5h9Xy4AAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=2b2b2b)](https://www.linkedin.com/in/duongvnminh)
-[![CEI Profile](https://img.shields.io/badge/🔬_CEI-Profile-4B2E83?style=for-the-badge&labelColor=2b2b2b)](https://www.cei.washington.edu/people/minh-duong/)
 
 </div>
 
