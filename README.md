@@ -2,7 +2,7 @@
 <h3 align="center">Ph.D. Candidate in Materials Science & Engineering | Materials & Data Science Researcher</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Batteries+Scientist;Battery+500+Project+Researcher;ML+%2F+AI+for+Molecules;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Batteries+Scientist;ML+%2F+AI+for+Molecules;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
