@@ -26,6 +26,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Machine Learning & AI
@@ -60,6 +61,7 @@
 ### Chemical & Solution Analysis
 ![Titration](https://img.shields.io/badge/Titration-00838F?style=for-the-badge)
 ![GC](https://img.shields.io/badge/GC-6A1B9A?style=for-the-badge)
+![UV-Vis](https://img.shields.io/badge/UV--Vis-E65100?style=for-the-badge)
 
 ---
 
