@@ -15,7 +15,7 @@
 
 ## About Me
 
-**Materials Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. Earned a PhD degree at the University of Washington and interned at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project**.
+**Materials Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. Earned a PhD degree in Materials Science & Engineering at the University of Washington and interned at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project**.
 
 ---
 
