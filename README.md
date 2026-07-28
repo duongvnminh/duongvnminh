@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Minh Duong</h1>
-<h3 align="center">Ph.D. in Materials Science & Engineering | Battery & Data Scientist</h3>
+<h3 align="center">Battery & Data Scientist</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Batteries+Scientist;ML+%2F+AI+for+Molecules;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
@@ -15,7 +15,7 @@
 
 ## About Me
 
-**Materials Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. PhD candidate at the University of Washington and intern at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project**.
+**Materials Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. Earned a PhD degree at the University of Washington and interned at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project**.
 
 ---
 
@@ -82,7 +82,6 @@
 <div align="center">
 
 ![Energy Storage](https://img.shields.io/badge/Energy_Storage-F57F17?style=for-the-badge)
-![Rechargeable Batteries](https://img.shields.io/badge/Rechargeable_Batteries-1565C0?style=for-the-badge)
 ![Solid-State Batteries](https://img.shields.io/badge/Solid--State_Batteries-2E7D32?style=for-the-badge)
 ![Battery Electrolyte](https://img.shields.io/badge/Battery_Electrolyte-0288D1?style=for-the-badge)
 <br>
