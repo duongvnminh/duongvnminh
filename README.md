@@ -2,7 +2,7 @@
 <h3 align="center">Battery & Data Scientist</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Batteries+Electrolyte;ML+%2F+AI+for+Molecules;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Battery+Electrolytes;ML+%2F+AI+for+Organic+Molecules;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@
 |:------:|:-----------:|:-----:|
 | ③ **Ph.D.** Materials Science & Engineering | 🏛️ University of Washington, Seattle | Materials science · Data science |
 | ② **M.Sc.** Chemistry — [Erasmus Mundus (i-MESC)](https://i-mesc.eu/fileadmin/user_upload/i-MESC_leaflet_2025.pdf) | 🌍 WUT · UPS · UPJV (Poland & France) | Energy storage & conversion |
-| ① **B.Sc.** Chemistry — Honor Program | 🏫 Ho Chi Minh University of Science | Physical/Organic chemistry |
+| ① **B.Sc.** Chemistry — Honor Program | 🏫 Ho Chi Minh University of Science | Physical chemistry |
 
 </div>
 
