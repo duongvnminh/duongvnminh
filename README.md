@@ -55,7 +55,6 @@
 ![SEM](https://img.shields.io/badge/SEM-37474F?style=for-the-badge)
 ![NMR](https://img.shields.io/badge/NMR-0277BD?style=for-the-badge)
 ![Raman](https://img.shields.io/badge/Raman_Spectroscopy-E65100?style=for-the-badge)
-![XPS](https://img.shields.io/badge/XPS-558B2F?style=for-the-badge)
 
 ### Chemical & Solution Analysis
 ![Titration](https://img.shields.io/badge/Titration-00838F?style=for-the-badge)
