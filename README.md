@@ -98,7 +98,7 @@
 
 ⚡ <b>Battery 500 Project (UW + PNNL)</b>: Data-driven electrolyte development for 500 Wh/kg lithium metal batteries<br>
 🧪 <b>PNNL Internship</b>: Fundamental & ML approaches to advanced electrolyte design for rechargeable Li metal batteries<br>
-📄 <b>Advanced Materials 2026</b>: "Leveraging Fundamental and Data-Driven Insights for Electrolyte Innovation" (accepted)<br>
+📄 <b>Advanced Materials 2026</b>: "Leveraging Fundamental and Data-Driven Insights for Electrolyte Innovation"<br>
 🏆 <b><a href="https://www.electrochem.org/ecsnews/spring-2026-award-winners">ECS Pacific Northwest Section Electrochemistry Student Award</a></b>: Spring 2026 award recipient
 
 </p>
