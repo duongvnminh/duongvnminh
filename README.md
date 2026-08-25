@@ -15,7 +15,7 @@
 
 ## About Me
 
-**Materials Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used for **electrolyte discovery** and to **accelerate battery technology development**. Earned a PhD degree in Materials Science & Engineering at the University of Washington and interned at **Pacific Northwest National Laboratory (PNNL)**, contributing to the **Battery 500 Project**.
+**Materials Scientist**, **Electrochemist** and **Data Scientist** broadly interested in questions of how data can be used to **accelerate battery technology development**. Earned a PhD degree in Materials Science & Engineering at the University of Washington and worked on the **Battery 500 Project**.
 
 ---
 
@@ -67,11 +67,10 @@
 
 | Repository | Description |
 |:-----------|:------------|
-| [**battery-electrolyte-ml**](https://github.com/duongvnminh) | Data-driven models for electrolyte design in lithium metal batteries |
+| [**battery-electrolyte-ml**](https://github.com/duongvnminh/lmb-electrolyte-ml) | Data-driven models for electrolyte design in lithium metal batteries |
 | [**lhce-solvation-shell**](https://github.com/duongvnminh) | Controlled solvation shell of localized high-concentration electrolytes |
 | [**nmc-slurry-optimization**](https://github.com/duongvnminh) | Slurry preparation optimization for NMC cathodes |
 | [**Bayesian-optimization(BO)**](https://github.com/duongvnminh) | use BO to optimize cathode density in all-solid-state batteries |
-| [**electrolyte-additive-predictor**](https://github.com/duongvnminh) | Predicting electrolyte additive effects on cell cycling performance |
 
 ---
 
