@@ -69,7 +69,7 @@
 |:-----------|:------------|
 | [**battery-electrolyte-ml**](https://github.com/duongvnminh/lmb-electrolyte-ml) | Data-driven models for electrolyte design in lithium metal batteries |
 | [**lhce-solvation-shell**](https://github.com/duongvnminh) | Controlled solvation shell of localized high-concentration electrolytes |
-| [**nmc-slurry-optimization**](https://github.com/duongvnminh) | Slurry preparation optimization for NMC cathodes |
+| [**nmc-slurry-optimization**](https://iopscience.iop.org/article/10.1149/1945-7111/abd1f6/meta) | Slurry preparation optimization for NMC cathodes |
 | [**Bayesian-optimization(BO)**](https://github.com/duongvnminh) | use BO to optimize cathode density in all-solid-state batteries |
 
 ---
