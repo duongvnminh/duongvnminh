@@ -70,7 +70,7 @@
 | [**battery-electrolyte-ml**](https://github.com/duongvnminh/lmb-electrolyte-ml) | Data-driven models for electrolyte design in lithium metal batteries |
 | [**lhce-solvation-shell**](https://github.com/duongvnminh) | Controlled solvation shell of localized high-concentration electrolytes |
 | [**nmc-slurry-optimization**](https://iopscience.iop.org/article/10.1149/1945-7111/abd1f6/meta) | Slurry preparation optimization for NMC cathodes |
-| [**electrolyte-additive-predictor**](https://www.sciencedirect.com/science/article/pii/S2352152X21007234?via%3Dihub) | Predicting electrolyte additive effects on cell cycling performance |
+| [**electrolyte-additive-predictor**](https://doi.org/10.1016/j.est.2021.103012) | Predicting electrolyte additive effects on cell cycling performance |
 
 ---
 
