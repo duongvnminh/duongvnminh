@@ -68,10 +68,9 @@
 <div align="center">
 
 ![Energy Storage](https://img.shields.io/badge/Energy_Storage-F57F17?style=for-the-badge)
-![Solid-State Batteries](https://img.shields.io/badge/Solid--State_Batteries-2E7D32?style=for-the-badge)
 ![Battery Electrolyte](https://img.shields.io/badge/Battery_Electrolyte-0288D1?style=for-the-badge)
-<br>
 ![Data-Driven Research](https://img.shields.io/badge/Data--Driven_Research-7B1FA2?style=for-the-badge)
+<br>
 ![Electrochemistry](https://img.shields.io/badge/Electrochemistry-C62828?style=for-the-badge)
 ![Organic Molecules](https://img.shields.io/badge/Organic_Molecules-0277BD?style=for-the-badge)
 
