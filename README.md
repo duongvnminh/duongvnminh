@@ -42,14 +42,10 @@
 ![Electrode Manufacturing](https://img.shields.io/badge/Electrode_Manufacturing-2E7D32?style=for-the-badge)
 ![Materials Synthesis](https://img.shields.io/badge/Materials_Synthesis-6A1B9A?style=for-the-badge)
 
-### Electrochemical Characterization
+### Characterization
 ![CV](https://img.shields.io/badge/CV-C62828?style=for-the-badge)
 ![EIS](https://img.shields.io/badge/EIS-1565C0?style=for-the-badge)
-![GITT](https://img.shields.io/badge/GITT-00838F?style=for-the-badge)
 ![GCPL](https://img.shields.io/badge/GCPL-6A1B9A?style=for-the-badge)
-![CA](https://img.shields.io/badge/CA-E65100?style=for-the-badge)
-
-### Material Characterization
 ![XRD](https://img.shields.io/badge/XRD-7B1FA2?style=for-the-badge)
 ![SEM](https://img.shields.io/badge/SEM-37474F?style=for-the-badge)
 ![NMR](https://img.shields.io/badge/NMR-0277BD?style=for-the-badge)
