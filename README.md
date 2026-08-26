@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Minh Duong</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Battery+Electrolytes;ML+%2F+AI+for+Organic+Molecules;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Battery+Electrolytes;Materials+and+Data+Science+;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
