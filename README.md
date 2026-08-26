@@ -35,10 +35,10 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 ### Battery Science
-![Battery Assembly](https://img.shields.io/badge/Battery_Assembly_%26_Testing-1565C0?style=for-the-badge)
 ![Electrolyte Design](https://img.shields.io/badge/Electrolyte_Design-0288D1?style=for-the-badge)
-![Electrode Manufacturing](https://img.shields.io/badge/Electrode_Manufacturing-2E7D32?style=for-the-badge)
 ![Materials Synthesis](https://img.shields.io/badge/Materials_Synthesis-6A1B9A?style=for-the-badge)
+![Electrode Manufacturing](https://img.shields.io/badge/Electrode_Manufacturing-2E7D32?style=for-the-badge)
+![Battery Testing](https://img.shields.io/badge/Battery_Testing-1565C0?style=for-the-badge)
 
 ### Characterization
 ![CV](https://img.shields.io/badge/CV-C62828?style=for-the-badge)
