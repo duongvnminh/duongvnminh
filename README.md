@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/duongvnminh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
   <a href="https://scholar.google.com/citations?user=A5h9Xy4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=ffffff" alt="Google Scholar"/></a>
-  <img src="https://img.shields.io/badge/Location-Seattle,_WA-17A2B8?style=for-the-badge&logo=googlemaps&logoColor=ffffff" alt="Location"/>
 </p>
 
 ---
