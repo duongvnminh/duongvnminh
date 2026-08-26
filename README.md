@@ -47,7 +47,7 @@
 ![XRD](https://img.shields.io/badge/XRD-7B1FA2?style=for-the-badge)
 ![SEM](https://img.shields.io/badge/SEM-37474F?style=for-the-badge)
 ![NMR](https://img.shields.io/badge/NMR-0277BD?style=for-the-badge)
-![Raman](https://img.shields.io/badge/Raman_Spectroscopy-E65100?style=for-the-badge)
+![Raman](https://img.shields.io/badge/Raman-E65100?style=for-the-badge)
 
 
 ---
