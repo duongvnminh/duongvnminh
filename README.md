@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Minh Duong</h1>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=2000&color=2196F3&center=true&vCenter=true&width=700&lines=Battery+Technology;Data+Science;Data-Driven+Materials+Discovery" alt="Typing SVG" /></a>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/duongvnminh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
   <a href="https://scholar.google.com/citations?user=A5h9Xy4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=ffffff" alt="Google Scholar"/></a>
 </p>
