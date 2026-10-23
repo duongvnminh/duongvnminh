@@ -16,6 +16,7 @@
 ## Technical Skills
 
 ### Programming & Data Science
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -23,6 +24,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Machine Learning & AI
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
@@ -31,12 +33,14 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 ### Battery Science
+
 ![Electrolyte Design](https://img.shields.io/badge/Electrolyte_Design-0288D1?style=for-the-badge)
 ![Materials Synthesis](https://img.shields.io/badge/Materials_Synthesis-6A1B9A?style=for-the-badge)
 ![Electrode Manufacturing](https://img.shields.io/badge/Electrode_Manufacturing-2E7D32?style=for-the-badge)
 ![Battery Testing](https://img.shields.io/badge/Battery_Testing-1565C0?style=for-the-badge)
 
 ### Characterization
+
 ![CV](https://img.shields.io/badge/CV-C62828?style=for-the-badge)
 ![EIS](https://img.shields.io/badge/EIS-1565C0?style=for-the-badge)
 ![GCPL](https://img.shields.io/badge/GCPL-6A1B9A?style=for-the-badge)
@@ -44,7 +48,6 @@
 ![SEM](https://img.shields.io/badge/SEM-37474F?style=for-the-badge)
 ![NMR](https://img.shields.io/badge/NMR-0277BD?style=for-the-badge)
 ![Raman](https://img.shields.io/badge/Raman-E65100?style=for-the-badge)
-
 
 ---
 
