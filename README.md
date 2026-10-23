@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=duongvnminh&style=flat-square&color=a855f7" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=duongvnminh&style=flat-square&color=a855f7" alt="Profile Views" />
 </p>
